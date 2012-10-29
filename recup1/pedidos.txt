@@ -1,0 +1,5 @@
+AC 4
+AB 3
+AD 1
+BE 5
+BD 6

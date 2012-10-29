@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1279868571 source:d:\documentos_andrescabrera\facultad\sin organizar\nueva carpeta\final09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
